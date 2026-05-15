@@ -4,10 +4,9 @@ title: Programming
 permalink: /programming/
 ---
 
-<div class="card px-4 py-2 mx-auto shadow-lg rounded my-4" style="background: rgba(255,255,255,0.95);">
-    <h3 class="fw-bold" style="color: #234c41;">Panel applications are now closed!</h3>
-    <p class="fs-5">Thank you all for your submissions!</p>
-    <p class="fs-5">If your panel is accepted, you will recieve an email from us shortly.</p>
+<div class="alert alert-danger rounded my-4">
+    <h4 class="alert-heading fw-bold">Panel applications are now closed!</h4>
+    <p class="fs-5">Thank you all for your submissions! <br>If your panel is accepted, you will recieve an email from us shortly.</p>
 </div>
 
 ## Activities
