@@ -14,7 +14,7 @@ layout: landing
             style="z-index: 2; position: absolute; width: 75%; margin-left: auto; margin-right: auto; left: 0; right: 0">
             <div class="d-flex justify-content-between align-items-center">
                 <p></p>
-                <h4>Registration for F.L.A.W. 2026 will be closing Monday, May 18th!</h4>
+                <h4>Registration for F.L.A.W. 2026 <span id=countdown>will be closing Monday, May 18th!</span></h4>
                 <button type="button" class="btn-close" aria-label="Close"></button>
             </div>
         </div>
@@ -44,4 +44,4 @@ layout: landing
     </div>
 </div>
 
-<script>document.querySelector('.btn-close').addEventListener('click', () => {document.querySelector('.closable').style.visibility = "hidden";})</script>
+<script>document.querySelector(".btn-close").addEventListener("click",()=>{document.querySelector(".closable").style.visibility="hidden"});let closeDate=new Date("May 18, 2026 23:59:59 EST").getTime(),countdown=document.querySelector("#countdown"),updateTime=()=>{now=Date.now(),diff=closeDate-now;let e=Math.floor(diff/864e5),t=Math.floor(diff%864e5/36e5),o=Math.floor(diff%36e5/6e4);e+t+o>0?countdown.innerHTML=`will be closing on Monday, May 18th!<br>(${e} days, ${t} hours, ${o} ${1==o?"minute":"minutes"})`:countdown.innerText="Registration for F.L.A.W. 2026 is now closed! Day passess will be available on-site."};updateTime(),setInterval(updateTime,6e4);</script>
