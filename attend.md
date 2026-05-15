@@ -13,6 +13,10 @@ hero-image:
 
 ## Registration
 
+<div class="alert alert-danger">
+<h4>Registration for F.L.A.W. 2026 will be closing Monday, May 18th!</h4>
+</div>
+
 <picture>
 <source type="image/webp" srcset="/assets/regdog.webp">
 <img src="/assets/regdog.png" alt="F.L.A.W. Registration Mascot" class="float-end ms-3 mb-3" style="max-height: 220px;">
