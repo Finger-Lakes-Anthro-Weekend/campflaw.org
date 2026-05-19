@@ -25,7 +25,7 @@ hero-image:
 All registrations are processed through [ConCat](https://www.concat.app/) and paid via Stripe.
 
 <div id="reg-button" class="my-3">
-    <a href="https://reg.campflaw.org/" class="btn btn-success btn-lg" style="color: #fff !important;">Register</a>
+    <a href="https://reg.campflaw.org/" class="btn btn-success btn-lg" style="color: #fff !important;">Registration Portal</a>
 </div>
 
 <script>let closeDate=new Date("May 18, 2026 23:59:59 EST").getTime(),countdown=document.querySelector("#countdown"),updateTime=()=>{now=Date.now(),diff=closeDate-now;let e=Math.floor(diff/864e5),o=Math.floor(diff%864e5/36e5),n=Math.floor(diff%36e5/6e4);e+o+n>0?countdown.innerHTML=`will be closing on Monday, May 18th (in ${e} days, ${o} hours, and ${n} ${1==n?"minute":"minutes"})!`:countdown.innerText="Registration for F.L.A.W. 2026 is now closed! Day passess will be available on-site."};updateTime(),setInterval(updateTime,6e4);</script>
