@@ -97,7 +97,7 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
             <time datetime="2026-05-28T21:00" class="schedule-time">9:00<span class="schedule-ampm">PM</span></time>
             <div class="schedule-body">
                 <h3 class="schedule-title">Beastars Fate TTRPG</h3>
-                <p class="schedule-desc">A tabletop RPG using the Fate ruleset. Dice, pencils, and character sheets provided. Light familiarity with Beastars encouraged, but all experience levels welcome. While the game itself isn't adult in nature, mature themes such as predation and murder may appear as story and villain elements. <strong>Recommended for ages 16+.</strong></p>
+                <p class="schedule-desc">A tabletop RPG using the Fate ruleset. Dice, pencils, and character sheets will be provided. Light familiarity with Beastars is encouraged, but all experience levels are welcome. While the game itself is not adult in nature, mature themes such as predation and murder may appear as part of the story and villain elements. <strong>Recommended for ages 16+.</strong></p>
                 <p class="schedule-meta">
                     <span class="schedule-meta-item"><i class="bi bi-geo-alt-fill" aria-hidden="true"></i> Arts &amp; Crafts Cabin</span>
                     <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Lazarus</span>
@@ -128,7 +128,7 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
                     <span class="schedule-meta-item"><i class="bi bi-geo-alt-fill" aria-hidden="true"></i> Main Events</span>
                     <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Chester &amp; Mochee</span>
                 </p>
-                <span class="badge schedule-tag schedule-tag-outdoor">Outdoor</span>
+                <span class="badge schedule-tag schedule-tag-indoor">Indoor</span>
             </div>
         </li>
     </ol>
@@ -294,7 +294,7 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
             <time datetime="2026-05-29T21:00" class="schedule-time">9:00<span class="schedule-ampm">PM</span></time>
             <div class="schedule-body">
                 <h3 class="schedule-title">Filmmaking 101 Part II</h3>
-                <p class="schedule-desc">Interested in furry filmmaking? Want to write a script, hold a boom mic, operate a camera, act in a film, or be a projectionist? Join this multi-part panel &mdash; we&rsquo;ll film an original skit and present it at Closing Ceremonies!</p>
+                <p class="schedule-desc">Interested in furry filmmaking? Do you make videos, but want to increase your technical skill? Do you want to write a script, hold a boom microphone, operate a camera, act in a film, be a projectionist? Join a fun multi-part panel where we will film an original skit and present it at Closing Ceremonies!</p>
                 <p class="schedule-meta">
                     <span class="schedule-meta-item"><i class="bi bi-geo-alt-fill" aria-hidden="true"></i> Arts &amp; Crafts Cabin</span>
                     <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Chester &amp; Mochee</span>
