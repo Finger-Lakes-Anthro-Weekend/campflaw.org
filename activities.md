@@ -291,7 +291,7 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
         </li>
 
         <li class="schedule-event">
-            <time datetime="2026-05-29T21:00" class="schedule-time">9:00<span class="schedule-ampm">PM</span></time>
+            <time datetime="2026-05-29T20:30" class="schedule-time">8:30<span class="schedule-ampm">PM</span></time>
             <div class="schedule-body">
                 <h3 class="schedule-title">Filmmaking 101 Part II</h3>
                 <p class="schedule-desc">Interested in furry filmmaking? Do you make videos, but want to increase your technical skill? Do you want to write a script, hold a boom microphone, operate a camera, act in a film, be a projectionist? Join a fun multi-part panel where we will film an original skit and present it at Closing Ceremonies!</p>
