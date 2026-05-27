@@ -4,7 +4,7 @@ title: Activities
 permalink: /activities/
 ---
 
-Panels, games, outdoor activities, and evening events at F.L.A.W. Participation is voluntary. Look for the <span class="badge schedule-tag schedule-tag-pin"><i class="bi bi-award-fill" aria-hidden="true"></i> Pin Rally</span> badge &mdash; eligible activities count toward weekend pins in three categories: **Activity Ace**, **Crafty Cadet**, and **Campfire Cadet**.
+Panels, games, outdoor activities, and evening events at F.L.A.W. Participation is voluntary.
 
 <nav class="schedule-nav mt-4 mb-2" aria-label="Schedule day navigation">
     <ul class="nav nav-pills justify-content-center flex-wrap gap-2 mb-0">
@@ -201,7 +201,6 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
                     <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Staff</span>
                 </p>
                 <span class="badge schedule-tag schedule-tag-outdoor">Outdoor</span>
-                <span class="badge schedule-tag schedule-tag-pin"><i class="bi bi-award-fill" aria-hidden="true"></i> Pin Rally &middot; Activity Ace</span>
             </div>
         </li>
 
@@ -222,7 +221,7 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
         <li class="schedule-event">
             <time datetime="2026-05-29T13:30" class="schedule-time">1:30<span class="schedule-ampm">PM</span></time>
             <div class="schedule-body">
-                <h3 class="schedule-title">Lunch</h3>
+                <h3 class="schedule-title">Self-Serve Lunch Service</h3>
             </div>
         </li>
 
@@ -243,7 +242,6 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
                     <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Staff</span>
                 </p>
                 <span class="badge schedule-tag schedule-tag-outdoor">Outdoor</span>
-                <span class="badge schedule-tag schedule-tag-pin"><i class="bi bi-award-fill" aria-hidden="true"></i> Pin Rally &middot; Activity Ace</span>
             </div>
         </li>
 
@@ -270,7 +268,6 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
                     <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Kiwi</span>
                 </p>
                 <span class="badge schedule-tag schedule-tag-indoor">Indoor</span>
-                <span class="badge schedule-tag schedule-tag-pin"><i class="bi bi-award-fill" aria-hidden="true"></i> Pin Rally &middot; Crafty Cadet</span>
             </div>
         </li>
 
@@ -278,19 +275,6 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
             <time datetime="2026-05-29T19:00" class="schedule-time">7:00<span class="schedule-ampm">PM</span></time>
             <div class="schedule-body">
                 <h3 class="schedule-title">Dinner</h3>
-            </div>
-        </li>
-
-        <li class="schedule-event">
-            <time datetime="2026-05-29T20:00" class="schedule-time">8:00<span class="schedule-ampm">PM</span></time>
-            <div class="schedule-body">
-                <h3 class="schedule-title">Filmmaking 101 Part II</h3>
-                <p class="schedule-desc">Interested in furry filmmaking? Want to write a script, hold a boom mic, operate a camera, act in a film, or be a projectionist? Join this multi-part panel &mdash; we&rsquo;ll film an original skit and present it at Closing Ceremonies!</p>
-                <p class="schedule-meta">
-                    <span class="schedule-meta-item"><i class="bi bi-geo-alt-fill" aria-hidden="true"></i> Arts &amp; Crafts Cabin</span>
-                    <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Chester &amp; Mochee</span>
-                </p>
-                <span class="badge schedule-tag schedule-tag-indoor">Indoor</span>
             </div>
         </li>
 
@@ -309,7 +293,8 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
         <li class="schedule-event">
             <time datetime="2026-05-29T21:00" class="schedule-time">9:00<span class="schedule-ampm">PM</span></time>
             <div class="schedule-body">
-                <h3 class="schedule-title">Filmmaking 101 Part II <small class="text-muted">(continued)</small></h3>
+                <h3 class="schedule-title">Filmmaking 101 Part II</h3>
+                <p class="schedule-desc">Interested in furry filmmaking? Want to write a script, hold a boom mic, operate a camera, act in a film, or be a projectionist? Join this multi-part panel &mdash; we&rsquo;ll film an original skit and present it at Closing Ceremonies!</p>
                 <p class="schedule-meta">
                     <span class="schedule-meta-item"><i class="bi bi-geo-alt-fill" aria-hidden="true"></i> Arts &amp; Crafts Cabin</span>
                     <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Chester &amp; Mochee</span>
@@ -322,7 +307,7 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
             <time datetime="2026-05-29T21:00" class="schedule-time">9:00<span class="schedule-ampm">PM</span></time>
             <div class="schedule-body">
                 <h3 class="schedule-title">Wine &amp; Whiskey</h3>
-                <p class="schedule-desc">Adult social gathering.</p>
+                <p class="schedule-desc">Adult social gathering. <strong>For Trailblazers only.</strong></p>
                 <p class="schedule-meta">
                     <span class="schedule-meta-item"><i class="bi bi-geo-alt-fill" aria-hidden="true"></i> Food Hall</span>
                     <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Sakkii &amp; Arden</span>
@@ -400,7 +385,6 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
                     <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Zack</span>
                 </p>
                 <span class="badge schedule-tag schedule-tag-indoor">Indoor</span>
-                <span class="badge schedule-tag schedule-tag-pin"><i class="bi bi-award-fill" aria-hidden="true"></i> Pin Rally &middot; Crafty Cadet</span>
             </div>
         </li>
 
@@ -413,7 +397,6 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
                     <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Arden</span>
                 </p>
                 <span class="badge schedule-tag schedule-tag-indoor">Indoor</span>
-                <span class="badge schedule-tag schedule-tag-pin"><i class="bi bi-award-fill" aria-hidden="true"></i> Pin Rally &middot; Crafty Cadet</span>
             </div>
         </li>
 
@@ -452,7 +435,7 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
         <li class="schedule-event">
             <time datetime="2026-05-30T13:30" class="schedule-time">1:30<span class="schedule-ampm">PM</span></time>
             <div class="schedule-body">
-                <h3 class="schedule-title">Lunch</h3>
+                <h3 class="schedule-title">Lunch Service</h3>
             </div>
         </li>
 
@@ -465,7 +448,6 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
                     <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Sakkii</span>
                 </p>
                 <span class="badge schedule-tag schedule-tag-outdoor">Outdoor</span>
-                <span class="badge schedule-tag schedule-tag-pin"><i class="bi bi-award-fill" aria-hidden="true"></i> Pin Rally &middot; Activity Ace</span>
             </div>
         </li>
 
@@ -491,7 +473,6 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
                     <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Sakkii</span>
                 </p>
                 <span class="badge schedule-tag schedule-tag-indoor">Indoor</span>
-                <span class="badge schedule-tag schedule-tag-pin"><i class="bi bi-award-fill" aria-hidden="true"></i> Pin Rally &middot; Activity Ace</span>
             </div>
         </li>
 
@@ -523,7 +504,6 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
                     <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Staff</span>
                 </p>
                 <span class="badge schedule-tag schedule-tag-outdoor">Outdoor</span>
-                <span class="badge schedule-tag schedule-tag-pin"><i class="bi bi-award-fill" aria-hidden="true"></i> Pin Rally &middot; Campfire Cadet</span>
             </div>
         </li>
 
@@ -555,7 +535,7 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
         <li class="schedule-event">
             <time datetime="2026-05-30T22:00" class="schedule-time">10:00<span class="schedule-ampm">PM</span></time>
             <div class="schedule-body">
-                <h3 class="schedule-title">Star Gazing <small class="text-muted">(subject to change)</small></h3>
+                <h3 class="schedule-title">Star Gazing</h3>
                 <p class="schedule-meta">
                     <span class="schedule-meta-item"><i class="bi bi-geo-alt-fill" aria-hidden="true"></i> Main Field</span>
                     <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Moon</span>
