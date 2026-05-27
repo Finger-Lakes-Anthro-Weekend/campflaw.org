@@ -336,7 +336,7 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
                 <p class="schedule-desc">Late-night tea hangout and social wind-down.</p>
                 <p class="schedule-meta">
                     <span class="schedule-meta-item"><i class="bi bi-geo-alt-fill" aria-hidden="true"></i> Arts &amp; Crafts Cabin</span>
-                    <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Carbonkitty</span>
+                    <span class="schedule-meta-item"><i class="bi bi-person-fill" aria-hidden="true"></i> Carbonitty</span>
                 </p>
                 <span class="badge schedule-tag schedule-tag-indoor">Indoor</span>
             </div>
