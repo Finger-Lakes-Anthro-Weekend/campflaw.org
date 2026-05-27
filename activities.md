@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Activities
-permalink: /programming/
+permalink: /activities/
 ---
 
 Panels, games, outdoor activities, and evening events at F.L.A.W. Participation is voluntary. Look for the <span class="badge schedule-tag schedule-tag-pin"><i class="bi bi-award-fill" aria-hidden="true"></i> Pin Rally</span> badge &mdash; eligible activities count toward weekend pins in three categories: **Activity Ace**, **Crafty Cadet**, and **Campfire Cadet**.
