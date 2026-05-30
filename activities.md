@@ -350,8 +350,8 @@ Panels, games, outdoor activities, and evening events at F.L.A.W. Participation 
         <p class="text-muted mb-2">Our busiest, most activity-packed day. Make as many memories as possible before the weekend ends.</p>
         <aside class="camp-hours" aria-label="Saturday camp hours">
             <span><strong>Fishing:</strong> 8:00 AM &ndash; 11:30 AM <em>(closes early for group photo)</em></span>
-            <span><strong>Canoeing:</strong> 9:30 AM &ndash; 11:30 AM</span>
-            <span><strong>Pool:</strong> 3:00 PM &ndash; 7:00 PM</span>
+            <span><strong>Canoeing:</strong> 9:30 AM &ndash; 11:30 AM & 3:00 PM &ndash; 7:00 PM</span>
+            <span><strong>Pool:</strong> CANCELLED</span>
         </aside>
     </header>
 
