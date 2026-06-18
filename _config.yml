@@ -19,31 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: F.L.A.W.
-email: contact@campflaw.org
+email: campflaw@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Lorem Ipsum Dolor Sit Amet
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://campflaw.org" # the base hostname & protocol for your site, e.g. http://example.com
-nav:
-  - title: Home
-    url: /
-  - title: Attend
-    url: /attend/
-  - title: Location
-    url: /location/
-  - title: Lodging
-    url: /lodging/
-  - title: Activities
-    url: /activities/
-  - title: Art
-    url: /art/
-  - title: Guidelines
-    url: /guidelines/
-  - title: FAQ
-    url: /faq/
-  - title: About & Contact
-    url: /contact/
-
 socials:
   bluesky: https://bsky.app/profile/campflaw.org
   twitter: https://x.com/campflaw_ny
@@ -64,5 +44,14 @@ socials:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude:
-  - assets/documents/2026 participant code of conduct.pdf
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

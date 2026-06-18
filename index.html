@@ -2,47 +2,19 @@
 layout: landing
 ---
 <picture>
-    <source type="image/webp" srcset="/assets/flaw-background.webp">
-    <source type="image/jpeg" srcset="/assets/flaw-background.jpg">
-    <img class="loaded-fade-in background-blur" onload="this.style.opacity=1" src="/assets/flaw-background.jpg"
-        alt="blurred photo of a group of fursuiters waving their arms">
+    <source type="image/webp" srcset="assets/flaw-background.webp">
+    <source type="image/jpeg" srcset="assets/flaw-background.jpg">
+    <img class="loaded-fade-in background-blur" onload="this.style.opacity=1" src="assets/flaw-background.jpg" alt="blurred photo of a group of fursuiters waving their arms">
 </picture>
-
-<div class="alert alert-danger closable"
-            style="z-index: 999999; position: absolute; width: 66%; margin-left: auto; margin-right: auto; left: 0; right: 0; top: 60px;">
-            <div class="d-flex justify-content-between align-items-center text-center">
-                <p></p>
-                <h4>Registration for F.L.A.W. 2026 <span id=countdown>will be closing Monday, May 18th!</span></h4>
-                <button type="button" class="btn-close" aria-label="Close"></button>
-            </div>
-        </div>
 
 <div class="container text-center fullheight d-flex justify-content-center align-items-center">
     <div class="col">
-
         <div class="container">
-            <img src="/assets/flaw-logo.svg" alt="the F.L.A.W. logo, a white sea serpent swimming in a lake"
+            <img src="assets/flaw-logo.svg" alt="the F.L.A.W. logo, a white sea serpent swimming in a lake"
                 class="w-md-25 w-sm-50">
             <h1 class="display-1 text-shadow text-light-emphasis fw-bold mt-0 pt-0">Finger Lakes Anthro Weekend</h1>
         </div>
-        <h2 class="fs-1 text-shadow pb-2 text-light-emphasis">May 28 &ndash; 31, 2026 &bull; Camp Whitman, NY</h2>
-
-        <!-- Info card -->
-        <div class="card p-4 w-md-50 mx-auto shadow-lg rounded text-warning-emphasis mb-3">
-            <p class="text-shadow px-3 fs-5">
-                F.L.A.W. is an outdoor furry fandom weekend with exclusive access to Camp Whitman in Penn Yan, NY.
-                Participants stay in cabins, are fed 6 delicious meals, and can enjoy activities including canoeing in
-                Seneca Lake, fishing, games, campfires, crafting, and more. We hope to provide a fun weekend
-                to relax, enjoy nature, and make memories together!
-            </p>
-            <p class="text-shadow px-3 fs-5 mb-1">
-                We are a volunteer-run, not-for-profit organization officially founded in 2026. With every event we
-                raise
-                money for charity and hope you can join us in raising funds to help good causes.
-            </p>
-            <a href="/attend/" class="btn btn-success btn-lg mx-auto">Register</a>
-        </div>
+        <h2 class="md-fs-3 fs-4 text-shadow pb-4 text-light-emphasis">F.L.A.W. 2026 has ended! Please watch our socials for updates:</h2>
+        {% include social-links.html %}
     </div>
 </div>
-
-<script>document.querySelector(".btn-close").addEventListener("click",()=>{document.querySelector(".closable").style.visibility="hidden"});let closeDate=new Date("May 18, 2026 23:59:59 EST").getTime(),countdown=document.querySelector("#countdown"),updateTime=()=>{now=Date.now(),diff=closeDate-now;let e=Math.floor(diff/864e5),t=Math.floor(diff%864e5/36e5),o=Math.floor(diff%36e5/6e4);e+t+o>0?countdown.innerHTML=`will be closing on Monday, May 18th!<br>(${e} day, ${t} hours, ${o} ${1==o?"minute":"minutes"})`:countdown.innerText="Registration for F.L.A.W. 2026 is now closed! Day passess will be available on-site."};updateTime(),setInterval(updateTime,6e4);</script>
